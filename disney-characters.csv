@@ -1,75 +1,75 @@
 movie_title,release_date,hero,hero_gender,villian,song
-Snow White and the Seven Dwarfs,21-Dec-37,Snow White,female,Evil Queen,Some Day My Prince Will Come
-Pinocchio,7-Feb-40,Pinocchio,male,Stromboli,When You Wish upon a Star
+Snow White and the Seven Dwarfs,21-Dec-37,Snow White,2,Evil Queen,Some Day My Prince Will Come
+Pinocchio,7-Feb-40,Pinocchio,1,Stromboli,When You Wish upon a Star
 "
 Fantasia",13-Nov-40,,,Chernabog,
-Dumbo,23-Oct-41,Dumbo,male,Ringmaster,Baby Mine
-Bambi,13-Aug-42,Bambi,male,Hunter,Love Is a Song
-Saludos Amigos,6-Feb-43,Donald Duck,male,,"Saludos Amigos
+Dumbo,23-Oct-41,Dumbo,1,Ringmaster,Baby Mine
+Bambi,13-Aug-42,Bambi,1,Hunter,Love Is a Song
+Saludos Amigos,6-Feb-43,Donald Duck,1,,"Saludos Amigos
 "
-The Three Caballeros,3-Feb-45,Donald Duck,male,,
+The Three Caballeros,3-Feb-45,Donald Duck,1,,
 "
 Make Mine Music",20-Apr-46,,,,
-Willie the Giant,27-Sep-47,Mickey Mouse,male,Willie the Giant,
+Willie the Giant,27-Sep-47,Mickey Mouse,1,Willie the Giant,
 "
 Melody Time",27-May-48,,,,Little Toot
 "
-The Adventures of Ichabod and Mr. Toad",5-Oct-49,Mr. Toad and Ichabod Crane,male,Mr. Winkie and The Headless Horseman,The Merrily Song
-Cinderella,15-Feb-50,Cinderella,female,Lady Tremaine,Bibbidi-Bobbidi-Boo
-Alice and Wonderland,28-Jul-51,Alice,female,Queen of Hearts,The Unbirthday Song
-Peter Pan,5-Feb-53,Peter Pan,male,Captain Hook,You Can Fly!
-Lady and the Tramp,22-Jun-55,Lady and Tramp,female,Si and Am,Bella Notte
-Sleeping Beauty,29-Jan-59,Aurora,female,Maleficent,Once Upon a Dream
-101 Dalmations,25-Jan-61,Pongo,male,Cruella de Vil,Cruella De Vil
-The Sword In the Stone,25-Dec-63,Arthur,male,Madam Mim,"Higitus Figitus
+The Adventures of Ichabod and Mr. Toad",5-Oct-49,Mr. Toad and Ichabod Crane,1,Mr. Winkie and The Headless Horseman,The Merrily Song
+Cinderella,15-Feb-50,Cinderella,2,Lady Tremaine,Bibbidi-Bobbidi-Boo
+Alice and Wonderland,28-Jul-51,Alice,2,Queen of Hearts,The Unbirthday Song
+Peter Pan,5-Feb-53,Peter Pan,1,Captain Hook,You Can Fly!
+Lady and the Tramp,22-Jun-55,Lady and Tramp,2,Si and Am,Bella Notte
+Sleeping Beauty,29-Jan-59,Aurora,2,Maleficent,Once Upon a Dream
+101 Dalmations,25-Jan-61,Pongo,1,Cruella de Vil,Cruella De Vil
+The Sword In the Stone,25-Dec-63,Arthur,1,Madam Mim,"Higitus Figitus
 "
-The Jungle Book,18-Oct-67,Mowgli,male,Kaa and Shere Khan,"The Bare Necessities
+The Jungle Book,18-Oct-67,Mowgli,1,Kaa and Shere Khan,"The Bare Necessities
 "
-The Aristocats,24-Dec-70,Thomas and Duchess,male,Edgar Balthazar,Ev'rybody Wants to Be a Cat
-Robin Hood,8-Nov-73,Robin Hood,male,Prince John,Oo De Lally
-Winnies the Pooh,11-Mar-77,Winnie the Pooh,male,,Winnie the Pooh
-The Rescures,22-Jun-77,Bernard and Miss Bianca,male,Madame Medusa,The Journey
-The Fox and the Hood,10-Jul-81,Tod and Copper,male,Amos Slade,Best of Friends
-Horned King,24-Jul-85,Taran,male,Horned King,
-The Great Mouse Detective,2-Jul-86,Basil,male,Professor Ratigan,The World's Greatest Criminal Mind
-Oliver and Company,18-Nov-88,Oliver,male,Sykes,Once Upon a Time in New York City
-The Little Mermaid,17-Nov-89,Ariel,female,Ursula,Under the Sea
-The Rescures,16-Nov-90,Bernard and Miss Bianca,male,Percival C. McLeach,"
+The Aristocats,24-Dec-70,Thomas and Duchess,1,Edgar Balthazar,Ev'rybody Wants to Be a Cat
+Robin Hood,8-Nov-73,Robin Hood,1,Prince John,Oo De Lally
+Winnies the Pooh,11-Mar-77,Winnie the Pooh,1,,Winnie the Pooh
+The Rescures,22-Jun-77,Bernard and Miss Bianca,1,Madame Medusa,The Journey
+The Fox and the Hood,10-Jul-81,Tod and Copper,1,Amos Slade,Best of Friends
+Horned King,24-Jul-85,Taran,1,Horned King,
+The Great Mouse Detective,2-Jul-86,Basil,1,Professor Ratigan,The World's Greatest Criminal Mind
+Oliver and Company,18-Nov-88,Oliver,1,Sykes,Once Upon a Time in New York City
+The Little Mermaid,17-Nov-89,Ariel,2,Ursula,Under the Sea
+The Rescures,16-Nov-90,Bernard and Miss Bianca,1,Percival C. McLeach,"
 "
-Beauty and the Beast,22-Nov-91,Belle,female,Gaston,Be Our Guest
-Aladdin,25-Nov-92,Aladdin,male,Jafar,A Whole New World
-The Lion King,24-Jun-94,Simba,male,Scar,Circle of Life
-Pocahontas,23-Jun-95,Pocahontas,female,Governor Ratcliffe,Colors of the Wind
-The Hunchback of Notre Dame,21-Jun-96,Quasimodo,male,Claude Frollo,God Help the Outcasts
-Hercules,27-Jun-97,Hercules,male,Hades,Go the Distance
-Mulan,19-Jun-98,Mulan,female,Shan Yu,"I'll Make a Man Out of You
+Beauty and the Beast,22-Nov-91,Belle,2,Gaston,Be Our Guest
+Aladdin,25-Nov-92,Aladdin,1,Jafar,A Whole New World
+The Lion King,24-Jun-94,Simba,1,Scar,Circle of Life
+Pocahontas,23-Jun-95,Pocahontas,2,Governor Ratcliffe,Colors of the Wind
+The Hunchback of Notre Dame,21-Jun-96,Quasimodo,1,Claude Frollo,God Help the Outcasts
+Hercules,27-Jun-97,Hercules,1,Hades,Go the Distance
+Mulan,19-Jun-98,Mulan,2,Shan Yu,"I'll Make a Man Out of You
 "
-Tarzan,18-Jun-99,Tarzan,male,Clayton,You'll Be in My Heart
+Tarzan,18-Jun-99,Tarzan,1,Clayton,You'll Be in My Heart
 "
 Fantasia 2000",17-Dec-99,,,,
 "
-Dinosaur",19-May-00,Aladar,male,Kron,
-The Emperor's New Groove,15-Dec-00,Kuzco,male,Yzma,"My Funny Friend and Me
+Dinosaur",19-May-00,Aladar,1,Kron,
+The Emperor's New Groove,15-Dec-00,Kuzco,1,Yzma,"My Funny Friend and Me
 "
-Atlantis: The Lost Empire,15-Jun-01,Milo Thatch,male,Commander Rourke,Where the Dream Takes You
-Lilo and Stitch,21-Jun-02,Lilo and Stitch,male,,"He Mele No Lilo
+Atlantis: The Lost Empire,15-Jun-01,Milo Thatch,1,Commander Rourke,Where the Dream Takes You
+Lilo and Stitch,21-Jun-02,Lilo and Stitch,1,,"He Mele No Lilo
 "
-Treasure Planet,27-Nov-02,Jim Hawkins,male,John Silver,"I'm Still Here
+Treasure Planet,27-Nov-02,Jim Hawkins,1,John Silver,"I'm Still Here
 "
-Brother Bear,1-Nov-03,Kenai,male,Denahi,Look Through My Eyes
-Home on the Range,2-Apr-04,Maggie,female,Alameda Slim,
-Chicken Little,4-Nov-05,Ace Cluck,male,Foxy Loxy,
-Meet the Robinsons,30-Mar-07,Lewis,male,Doris,Little Wonders
-Bolt,21-Nov-08,Bolt,male,Dr. Calico,I Thought I Lost You
-The Princess and the Frog,11-Dec-09,Tiana,female,Dr. Facilier,Almost There
-Tangled,24-Nov-10,Rapunzel,female,Mother Gothel,I See the Light
+Brother Bear,1-Nov-03,Kenai,1,Denahi,Look Through My Eyes
+Home on the Range,2-Apr-04,Maggie,2,Alameda Slim,
+Chicken Little,4-Nov-05,Ace Cluck,1,Foxy Loxy,
+Meet the Robinsons,30-Mar-07,Lewis,1,Doris,Little Wonders
+Bolt,21-Nov-08,Bolt,1,Dr. Calico,I Thought I Lost You
+The Princess and the Frog,11-Dec-09,Tiana,2,Dr. Facilier,Almost There
+Tangled,24-Nov-10,Rapunzel,2,Mother Gothel,I See the Light
 "
-Winnie the Pooh",15-Jul-11,Winnie the Pooh,male,,"Winnie the Pooh
+Winnie the Pooh",15-Jul-11,Winnie the Pooh,1,,"Winnie the Pooh
 "
-Wreck-It Ralph,2-Nov-12,Ralph,male,Turbo,Sugar Rush
-Frozen,27-Nov-13,Elsa,female,Prince Hans,"Let It Go
+Wreck-It Ralph,2-Nov-12,Ralph,1,Turbo,Sugar Rush
+Frozen,27-Nov-13,Elsa,2,Prince Hans,"Let It Go
 "
-Big Hero 6,7-Nov-14,Hiro Hamada,male,Professor Callaghan,Immortals
-Zootopia,4-Mar-16,Judy Hopps,female,,Try Everything
-Moana,23-Nov-16,Moana,female,,"How Far I'll Go
+Big Hero 6,7-Nov-14,Hiro Hamada,1,Professor Callaghan,Immortals
+Zootopia,4-Mar-16,Judy Hopps,2,,Try Everything
+Moana,23-Nov-16,Moana,2,,"How Far I'll Go
 "
