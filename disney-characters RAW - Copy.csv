@@ -3,8 +3,6 @@ movie_title,release_date,hero,hero_gender,hero_gender2,villian,song
 Snow White and the Seven Dwarfs",21-Dec-37,Snow White,2,female,Evil Queen,Some Day My Prince Will Come
 "
 Pinocchio",7-Feb-40,Pinocchio,1,male,Stromboli,When You Wish upon a Star
-"
-Fantasia",13-Nov-40,,,,Chernabog,
 Dumbo,23-Oct-41,Dumbo,1,male,Ringmaster,Baby Mine
 "
 Bambi",13-Aug-42,Bambi,1,male,Hunter,Love Is a Song
@@ -13,11 +11,7 @@ Saludos Amigos",6-Feb-43,Donald Duck,1,male,,"Saludos Amigos
 "
 The Three Caballeros,3-Feb-45,Donald Duck,1,male,,
 "
-Make Mine Music",20-Apr-46,,,,,
-"
 Fun and Fancy Free",27-Sep-47,Mickey Mouse,1,male,Willie the Giant,
-"
-Melody Time",27-May-48,,,,,Little Toot
 "
 The Adventures of Ichabod and Mr. Toad",5-Oct-49,Mr. Toad and Ichabod Crane,1,male,Mr. Winkie and The Headless Horseman,The Merrily Song
 Cinderella,15-Feb-50,Cinderella,2,female,Lady Tremaine,Bibbidi-Bobbidi-Boo
